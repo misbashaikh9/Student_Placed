@@ -1,5 +1,5 @@
 Flask
 streamlit
-scikit
+scikit-learn
 pandas
 requests
