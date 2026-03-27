@@ -11,7 +11,7 @@ projects = st.slider("Projects", 0, 5, 2)
 
 # Predict button
 if st.button("Predict"):
-    url = "http://127.0.0.1:3000/predict"
+    url = "https://student-placed-1-043h.onrender.com/predict"
 
     data = {
         "cgpa": cgpa,
